@@ -37,12 +37,12 @@
   },
   {
     "id": 210,
-    "name": "Grapes Farm",
-    "imageUrl": "https://raw.githubusercontent.com/markadriandave17/villanueva/master/10.JPG",
+    "name": "San Juan, La Union",
+    "imageUrl": "https://raw.githubusercontent.com/markadriandave17/villanueva/master/13.jpg",
     "price": 150,
     "priceCurrency": "₱",
-    "lat": 16.461056,
-    "lng": 120.333904
+    "lat": 16.657249,
+    "lng": 120.321690
   },
   {
     "id": 211,
@@ -50,7 +50,7 @@
     "imageUrl": "https://raw.githubusercontent.com/Francisjoshua0502/Juswaw/master/12.png",
     "price": 0,
     "priceCurrency": "₱",
-    "lat": 16.847389,
-    "lng": 120.371696
+    "lat": 16.720584,
+    "lng": 120.357637
   }
 ]
