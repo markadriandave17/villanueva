@@ -39,7 +39,7 @@
     "id": 210,
     "name": "San Juan, La Union",
     "imageUrl": "https://raw.githubusercontent.com/markadriandave17/villanueva/master/13.jpg",
-    "price": 150,
+    "price": 0,
     "priceCurrency": "₱",
     "lat": 16.657249,
     "lng": 120.321690
