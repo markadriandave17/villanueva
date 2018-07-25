@@ -1,48 +1,48 @@
 [
   {
     "id": 145,
-    "name": "Tangadan Falls",
-    "imageUrl": "https://raw.githubusercontent.com/markadriandave17/villanueva/master/6.jpg",
+    "name": "Subic Beach “Pink Beach”",
+    "imageUrl": "https://raw.githubusercontent.com/markadriandave17/villanueva/master/san_agustin_church_manila.jpg",
     "price": 0,
     "priceCurrency": "₱",
-    "lat": 16.643331,
-    "lng":  120.448689
+    "lat": 12.542059,
+    "lng": 124.104882
   },
   {
     "id": 148,
-    "name": "Kamay Na Bato",
-    "imageUrl": "https://raw.githubusercontent.com/markadriandave17/villanueva/master/7.jpg",
+    "name": "Kalanggaman Island, Leyte",
+    "imageUrl": "https://raw.githubusercontent.com/markadriandave17/villanueva/master/kalanggaman-island.jpg",
     "price": 0,
     "priceCurrency": "₱",
-    "lat": 16.847160,
-    "lng": 120.351695
+    "lat": 11.114559,
+    "lng": 124.249974
   },
   {
     "id": 201,
-    "name": "Lighthouse",
-    "imageUrl": "https://raw.githubusercontent.com/markadriandave17/villanueva/master/8.jpg",
+    "name": "Siargao Island, Surigao del Norte",
+    "imageUrl": "https://raw.githubusercontent.com/markadriandave17/villanueva/master/siargao.jpg",
     "price": 0,
     "priceCurrency": "₱",
-    "lat": 16.614786,
-    "lng": 120.280399
+    "lat": 9.848949,
+    "lng": 126.047131
   },
   {
     "id": 205,
-    "name": "Baluarte Watch Tower",
-    "imageUrl": "https://raw.githubusercontent.com/markadriandave17/villanueva/master/9.jpg",
+    "name": " Hinatuan Enchanted River, Surigao Del Sur",
+    "imageUrl": "https://raw.githubusercontent.com/markadriandave17/villanueva/master/Hinatuan-Enchanted-River.jpg",
     "price": 0,
     "priceCurrency": "₱",
-    "lat": 16.856757,
-    "lng": 120.372851
+    "lat": 8.458871, 
+    "lng": 126.354663
   },
   {
     "id": 210,
-    "name": "San Juan, La Union",
-    "imageUrl": "https://raw.githubusercontent.com/markadriandave17/villanueva/master/13.jpg",
+    "name": "Langun Gobingob Caves, Samar",
+    "imageUrl": "https://raw.githubusercontent.com/markadriandave17/villanueva/master/Calbiga-caves.jpg",
     "price": 0,
     "priceCurrency": "₱",
-    "lat": 16.657249,
-    "lng": 120.321690
+    "lat": 11.930563,
+    "lng": 125.034406
   },
   {
     "id": 211,
