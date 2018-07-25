@@ -52,14 +52,5 @@
     "priceCurrency": "km",
     "lat": 16.720584,
     "lng": 120.357637
-  },
-  {
-    "id": 225,
-    "name": "Baras, Rizal",
-    "imageUrl": "https://raw.githubusercontent.com/markadriandave17/villanueva/master/rizal.jpg",
-    "price": 910
-    "priceCurrency": "km",
-    "lat": 16.720584,
-    "lng": 120.357637
   }
 ]
