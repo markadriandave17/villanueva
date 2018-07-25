@@ -3,17 +3,17 @@
     "id": 145,
     "name": "Subic Beach “Pink Beach”",
     "imageUrl": "https://raw.githubusercontent.com/markadriandave17/villanueva/master/subic-beach.jpg",
-    "price": 0,
-    "priceCurrency": "₱",
+    "price": 266,
+    "priceCurrency": "km",
     "lat": 12.542059, 
     "lng": 124.104882
   },
   {
     "id": 148,
-    "name": "Kalanggaman Island, Leyte",
-    "imageUrl": "https://raw.githubusercontent.com/markadriandave17/villanueva/master/kalanggaman-island.jpg",
-    "price": 0,
-    "priceCurrency": "₱",
+    "name": "Vigan City",
+    "imageUrl": "https://raw.githubusercontent.com/markadriandave17/villanueva/master/calle-crisologo-vigan.jpg",
+    "price": 125,
+    "priceCurrency": "km",
     "lat": 11.114559,
     "lng": 124.249974
   },
