@@ -1,12 +1,12 @@
 [
   {
     "id": 145,
-    "name": "Bahay na Bato",
+    "name": "Tangadan Falls",
     "imageUrl": "https://raw.githubusercontent.com/markadriandave17/villanueva/master/6.jpg",
     "price": 0,
     "priceCurrency": "₱",
-    "lat": 16.846934,
-    "lng": 120.350171
+    "lat": 16.643994,
+    "lng":  120.448737
   },
   {
     "id": 148,
