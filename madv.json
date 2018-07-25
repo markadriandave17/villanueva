@@ -52,5 +52,14 @@
     "priceCurrency": "₱",
     "lat": 16.720584,
     "lng": 120.357637
+  },
+  {
+    "id": 223,
+    "name": "Mount Apo, Mindanao",
+    "imageUrl": "https://raw.githubusercontent.com/markadriandave17/villanueva/master/Mount-Apo.jpg",
+    "price": 0,
+    "priceCurrency": "₱",
+    "lat": 16.720584,
+    "lng": 120.357637
   }
 ]
