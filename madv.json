@@ -66,7 +66,7 @@
     "id": 210,
     "name": "Boracay,Aklan",
     "imageUrl": "https://raw.githubusercontent.com/markadriandave17/villanueva/master/boracay.jpg",
-    "price": 0,
+    "price": 725,
     "priceCurrency": "km",
     "lat": 11.930563,
     "lng": 125.034406
@@ -75,7 +75,7 @@
     "id": 210,
     "name": "Chocolate Hills, Bohol",
     "imageUrl": "https://raw.githubusercontent.com/markadriandave17/villanueva/master/Chocolate_Hills.jpg",
-    "price": 0,
+    "price": 1209,
     "priceCurrency": "km",
     "lat": 11.930563,
     "lng": 125.034406
