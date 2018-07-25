@@ -10,6 +10,15 @@
   },
   {
     "id": 145,
+    "name": "El Nido, Palawan",
+    "imageUrl": "https://raw.githubusercontent.com/markadriandave17/villanueva/master/el.jpg",
+    "price": 900,
+    "priceCurrency": "km",
+    "lat": 12.542059, 
+    "lng": 124.104882
+  },
+   {
+    "id": 145,
     "name": "Mayon Volcano, Albay",
     "imageUrl": "https://raw.githubusercontent.com/markadriandave17/villanueva/master/mayon.jpg",
     "price": 755,
