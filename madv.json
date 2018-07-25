@@ -54,6 +54,15 @@
     "lng": 125.034406
   },
   {
+    "id": 210,
+    "name": "taal Volcano",
+    "imageUrl": "https://raw.githubusercontent.com/markadriandave17/villanueva/master/taal.jpg",
+    "price": 0,
+    "priceCurrency": "km",
+    "lat": 11.930563,
+    "lng": 125.034406
+  },
+  {
     "id": 211,
     "name": "Home",
     "imageUrl": "https://raw.githubusercontent.com/markadriandave17/villanueva/master/12.png",
