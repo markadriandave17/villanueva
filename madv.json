@@ -10,8 +10,17 @@
   },
   {
     "id": 145,
-    "name": "National Museum of the Philippines, Manila",
-    "imageUrl": "https://raw.githubusercontent.com/markadriandave17/villanueva/master/Spoliarium-painting.jpg",
+    "name": "Subic Beach",
+    "imageUrl": "https://raw.githubusercontent.com/markadriandave17/villanueva/master/subic-beach.jpg",
+    "price": 266,
+    "priceCurrency": "km",
+    "lat": 12.542059, 
+    "lng": 124.104882
+  },
+  {
+    "id": 145,
+    "name": "Baras, Rizal",
+    "imageUrl": "https://raw.githubusercontent.com/markadriandave17/villanueva/master/rizal.jpg",
     "price": 266,
     "priceCurrency": "km",
     "lat": 12.542059, 
