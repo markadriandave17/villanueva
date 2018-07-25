@@ -1,12 +1,12 @@
 [
   {
     "id": 145,
-    "name": "Tangadan Falls",
-    "imageUrl": "https://raw.githubusercontent.com/markadriandave17/villanueva/master/6.jpg",
+    "name": "San Agustin Church, Manila",
+    "imageUrl": "https://raw.githubusercontent.com/markadriandave17/villanueva/master/san_agustin_church_manila.jpg",
     "price": 0,
     "priceCurrency": "₱",
-    "lat": 16.643341,
-    "lng": 120.448812
+    "lat": 14.588734, 120.975496
+    "lng": 120.975496
   },
   {
     "id": 148,
