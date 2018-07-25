@@ -9,6 +9,15 @@
     "lng": 124.104882
   },
   {
+    "id": 145,
+    "name": "National Museum of the Philippines, Manila",
+    "imageUrl": "https://raw.githubusercontent.com/markadriandave17/villanueva/master/Spoliarium-painting.jpg",
+    "price": 266,
+    "priceCurrency": "km",
+    "lat": 12.542059, 
+    "lng": 124.104882
+  },
+  {
     "id": 148,
     "name": "Vigan City",
     "imageUrl": "https://raw.githubusercontent.com/markadriandave17/villanueva/master/calle-crisologo-vigan.jpg",
